@@ -51,6 +51,15 @@ You can run this app by using `npm start` in the terminal and then navigating to
 
     None
 
+## Deployed Application
+
+https://blooming-retreat-45191.herokuapp.com/ 
+
+![image](https://user-images.githubusercontent.com/87339742/153254212-50330115-3524-47b3-8acb-80fecd6722a4.png)
+
+
 ## Questions
 
 If you wish to view more of my projects go to https://github.com/LeahFusari
+
+
